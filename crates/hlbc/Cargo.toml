@@ -27,6 +27,7 @@ memchr = { workspace = true }
 petgraph = { workspace = true, optional = true }
 # Error types
 thiserror = { workspace = true }
+winresource = { workspace = true }
 
 [features]
 default = ["graph"]
