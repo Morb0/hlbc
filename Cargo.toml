@@ -32,7 +32,7 @@ eframe = { version = "0.27", default-features = false }
 # Docking tabs
 egui_dock = { version = "0.12" }
 # UI theme
-egui_ui_refresh = { version = "0.2" }
+egui_ui_refresh = { version = "*" }
 # Cheaply clonable immutable string with inline storage
 flexstr = { version = "0.9" }
 fuzzy-matcher = "0.3"
